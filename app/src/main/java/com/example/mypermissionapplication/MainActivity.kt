@@ -17,6 +17,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+//https://github.com/android/platform-samples/blob/main/samples/storage/src/main/java/com/example/platform/storage/mediastore/SelectedPhotosAccess.kt#L62
 class MainActivity : AppCompatActivity() {
     private var showRationale = false
 
